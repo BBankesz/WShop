@@ -1,0 +1,393 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+a:link{
+    text-decoration: none;
+}
+a:hover{
+    text-decoration: underline;
+    color:white;
+}
+a:active{
+    text-decoration: underline;
+    color:white;
+}
+a:visited{
+    text-decoration: none;
+    color:white;
+}
+#form1{
+    padding-top: 5px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: 90px;
+    padding-top: 20px;
+    font-style: italic;
+    color: white;
+}
+#pic1Form{
+    height: 90px;
+    width: 80px;
+    margin-top: -65px;
+
+}
+#divDecor1{
+    height: 82px;
+    width: 1536 px;
+    background-color: black;
+}
+#tableDecor{
+    margin-top: -60px;
+    margin-left: 750px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 16px;
+}
+tr td{
+    padding-right: 90px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    
+}
+#pic6Form{
+    height:750px;
+    width: 1519px;
+}
+#pic7Form{
+    height:750px;
+    width: 1519px;
+    
+}
+#pic8Form{
+    height:750px;
+    width: 1519px;
+}
+#divDecor2{
+    height: 200px;
+    width: 1519px;
+    margin-top: -5px;
+    background-color:black;
+}
+#tableDecor2{
+    margin-left: 400px;
+    padding-top: 55px;
+}
+#copy1{
+    color:white;
+    padding-top: 40px;
+}
+#tableDecor3{
+    margin-left: 650px;
+}
+.icon{
+    padding-left: 233px;
+    padding-top: 245px;
+    display: none;
+}
+.icon2{
+    padding-left: 160px;
+    padding-top: 15px;
+    color: black;
+    font-weight: bold;
+    font-size: 20px;
+}
+.iphoneDecor{
+    height: 300px;
+    width: 300px;
+    margin-left: 113px;
+    margin-top: 20px;
+    border: solid 1px black;
+    cursor: pointer;
+}
+#textDecor{
+    border: solid 1px black;
+    padding-right: 114px;
+    padding-left: 130px;
+    margin-left: 113px;
+    margin-top: -4px;
+    font-weight: bold;
+    background-color: black;
+    color: white;
+}
+#divDecor3{
+    height: 400px;
+    width: 1200px;
+    background-color: grey;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 120px;
+    border-radius: 7px;
+}
+#hDecor{
+    padding-left: 120px;
+    margin-top: 70px;
+}
+#hrDecor{
+    margin-left: 120px;
+    margin-right: 136px;
+    border: 2px solid black;
+}
+#divDecor4{
+    height: 60px;
+    width: 1280px;
+    background-color: black;
+    margin-left: 120px;
+    margin-top: 10px;
+    border-radius: 5px;
+}
+#textDecor2{
+    color:white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 565px;
+    padding-top: 17px;
+}
+#slide{
+    height:750px;
+    width: 1519px;
+    position: relative;
+}
+#slide > div{
+    position: absolute;
+}
+#divDecor5{
+    height: 50px;
+    width: 1536px;
+    margin-top: 475px;
+    background-color: black;
+    position: fixed;
+}
+#textDecor3{
+    color: white;
+    padding-top: 15px;
+    margin-left: 580px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20px;
+    position: fixed;
+}
+#divDecor6{
+    background-color: black;
+    height: 2275px;
+    width: 1300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    border-radius: 10px;
+}
+#modalShow1{
+    height: 750px;
+    width: 700px;
+    display: none;
+}
+#modalShow2{
+    height: 750px;
+    width: 700px;
+    display: none;
+}
+#modalShow3{
+    height: 750px;
+    width: 700px;
+    display: none;
+}
+#modalShow4{
+    height: 750px;
+    width: 700px;
+    display: none;
+}
+#modalShow5{
+    height: 750px;
+    width: 700px;
+    display: none;
+}
+#modalShow6{
+    height: 750px;
+    width: 700px;
+    display: none;
+}
+#modalShow7{
+    height: 750px;
+    width: 700px;
+    display: none;
+}
+#modalShow8{
+    height: 750px;
+    width: 700px;
+    display: none;
+}
+#modalShow9{
+    height: 750px;
+    width: 700px;
+    display: none;
+}
+#modalShow10{
+    height: 750px;
+    width: 700px;
+    display: none;
+}
+#modalShow11{
+    height: 750px;
+    width: 700px;
+    display: none;
+}
+#modalShow12{
+    height: 750px;
+    width: 700px;
+    display: none;
+}
+#modalShow13{
+    height: 750px;
+    width: 700px;
+    display: none;
+}
+#modalShow14{
+    height: 750px;
+    width: 700px;
+    display: none;
+}
+#modalShow15{
+    height: 750px;
+    width: 700px;
+    display: none;
+}
+#modalShow16{
+    height: 750px;
+    width: 700px;
+    display: none;
+}
+#modalShow17{
+    height: 750px;
+    width: 700px;
+    display: none;
+}
+#modalShow18{
+    height: 750px;
+    width: 700px;
+    display: none;
+}
+.modalPics1{
+    height: 400px;
+    width: 450px;
+    margin-left: -5px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.textModal1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 97px;
+    margin-top: 20px;   
+}
+.selectModal1{
+    margin-left: 165px;
+    margin-top: 40px;
+    height: 50px;
+    width: 115px;
+    font-size: 15px;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+.formModal1{
+    margin-left: 168px;
+    margin-top: 40px;
+}
+#buyButton{
+    height: 50px;
+    width: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    border-radius: 5px;
+    background-color: black;
+    color: white;
+}
+#textModal2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 120px;
+    margin-top: 20px;
+   
+}
+.priceModal{
+    margin-left: 180px;
+    margin-top: 30px;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline;
+    
+}
+.textDecor4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 40px;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+    margin-left: 20px;
+    padding-top: 10px;
+    text-decoration: underline;
+}
+#aszf1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color:white;
+    font-weight: bold;
+    margin-left: 15px;
+}
+#aszf2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    color:white;
+    font-weight: bold;
+    margin-left: 15px;
+    margin-top: 35px;
+}
+#aszf3{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color:white;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: 10px;
+}
+#aszf4{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color:white;
+    font-weight: bold;
+    margin-left: 50px;
+    margin-top: 10px;
+    text-align: justify;
+    margin-right: 15px;
+}
+#aszf5{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color:white;
+    margin-left: 15px;
+    margin-top: 10px;
+}
+#aszf6{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    color:white;
+    margin-left: 15px;
+    margin-top: 10px;
+    text-align: justify;
+    margin-right: 15px;
+}
+
+
+
+
+    
+
+
+
+
+
+
+
